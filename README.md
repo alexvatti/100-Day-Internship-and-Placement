@@ -14,7 +14,7 @@ This structured program will guide you through essential Machine Learning, Deep 
     - Review core concepts of ML algorithms (Supervised, Unsupervised, Reinforcement Learning)
     - Revise Deep Learning architectures (ANNs, CNNs, RNNs, LSTMs, GANs)
     - Brush up on important mathematical concepts: Linear Algebra, Probability, Statistics
-    - Python programming, libraries like Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch
+    - Python programming, libraries like Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, Transfomers,LLMs, LangChain,Agents
 
   - **Project Work:**
     - Implement algorithms in Python
@@ -28,7 +28,7 @@ This structured program will guide you through essential Machine Learning, Deep 
 
 - **Goal:**
   - Revise all theoretical concepts and code implementations to ensure a strong base for the upcoming phases.
-  - Complete one or two smaller ML/DL projects for portfolio enhancement.
+  - Complete 5 to 10  ML/DL/Transfomers/LLM/GenAI projects for portfolio enhancement..
 
 ---
 
